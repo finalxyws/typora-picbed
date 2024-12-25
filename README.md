@@ -1,1 +1,1 @@
-# typro-picbed
+# typora-picbed
